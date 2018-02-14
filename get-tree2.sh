@@ -63,7 +63,7 @@ do
     ;;
     -h|--help|*)
       echo "This is a simple tool to write down directories "
-      echo " under current directory
+      echo " under current directory "
       echo "Usage:"
       echo "-h,--help                  show this info"
       echo "-a                         include hidden files"
